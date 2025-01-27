@@ -1,4 +1,0 @@
-This is a simple file.
-This is added in branch dev1.
-This is newly created!
-bare repo newly added
